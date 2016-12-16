@@ -6,7 +6,7 @@
 Are you looking for one of the following?
 * trying to do more advanced things with your setup
 * looking for a nice way of interacting with your setup
-* tired of cumbersome debugging 
+* tired of cumbersome debugging
 * interested in multitasking for your setup
 Then keep on reading because the MECO-CSI repo might resolve your problems!
 
@@ -40,5 +40,6 @@ Cloning the repo is all you have to do to get things running. In the Arduino fol
 The MECO-CSI repo is composed of two separate repos:
 * https://github.com/maartenverbandt/MicroOS
 * https://github.com/maartenverbandt/QRoboticsCenter
+
 You can find the instructions over there to build them from source.
 
