@@ -1,8 +1,7 @@
 # MECO-CSI
 [MECO](http://www.mech.kuleuven.be/en/pma/research/meco) Control Setup Interface
 
-1. Should you be interested?
-============================
+## 1. Should you be interested?
 
 Are you looking for one of the following?
 * trying to do more advanced things with your setup
@@ -12,8 +11,7 @@ Are you looking for one of the following?
 
 Then keep on reading because the MECO-CSI repo might resolve your problems!
 
-2. What does MECO-CSI offer?
-============================
+## 2. What does MECO-CSI offer?
 
 The MECO-CSI project was inspired by the high popularity of Arduino products and its derivatives. The average Arduino project is becoming more and more complex, which makes development cumbersome. The main difficulties in this regard are:
 * Multitasking: running different tasks at the same time
@@ -31,14 +29,13 @@ The GUI allows the user to visualize incoming data, for instance sensor readings
 
 ![alt tag](https://raw.githubusercontent.com/maartenverbandt/MECO-CSI/master/Util/screenshot.png)
 
-3. What if I really want to use it?
-===================================
+## 3. What if I really want to use it?
 
-3.1. Using it out of the box
+### 3.1. Using it out of the box
 
 Cloning the repo is all you have to do to get things running. In the Arduino folder, you get the libraries and some example projects to get you started. In the Desktop folder, you can find stable builds for Windows, Unix and MAC OS. 
 
-3.2. Building from source
+### 3.2. Building from source
 
 The MECO-CSI repo is composed of two separate repos:
 * https://github.com/maartenverbandt/MicroOS
