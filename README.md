@@ -3,6 +3,7 @@
 
 1. Should you be interested?
 ============================
+
 Are you looking for one of the following?
 * trying to do more advanced things with your setup
 * looking for a nice way of interacting with your setup
@@ -13,6 +14,7 @@ Then keep on reading because the MECO-CSI repo might resolve your problems!
 
 2. What does MECO-CSI offer?
 ============================
+
 The MECO-CSI project was inspired by the high popularity of Arduino products and its derivatives. The average Arduino project is becoming more and more complex, which makes development cumbersome. The main difficulties in this regard are:
 * Multitasking: running different tasks at the same time
 * Interacting: getting information in and out
